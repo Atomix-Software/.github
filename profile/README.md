@@ -10,5 +10,5 @@ Currently our products are focused on being free~cheap as we are a new indie tea
 
 | Team Member | Job | Current Project |
 | :------------------- | :----------: | ----------: |
-| ArcaneSunku          | Founder/Lead Programmer      | Idle_Builder       |
-| ShadowWalker         | Co-Founder/Lead Artist      | Idle_Builder     |
+| ArcaneSunku | Founder/Lead Programmer | Idle_Builder |
+| ShadowWalker | Co-Founder/Lead Artist | Idle_Builder |
