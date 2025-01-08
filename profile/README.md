@@ -10,4 +10,4 @@ Currently our products are focused on being free~cheap as we are a new indie tea
 
 | Team Member | Job | Current Project |
 | :------------------- | :----------: | ----------: |
-| ArcaneSunku | Founder/Lead Programmer/LeadArtist | Idle_Builder |
+| ArcaneSunku | Founder/Lead Programmer | arcane_engine |
